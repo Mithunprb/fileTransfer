@@ -7,7 +7,7 @@ file transfer using shell based client and server using socks  library in C
 * Outputs:
   * client  
   ```python
-  ./client
+  % ./client
   file descriptor 3 received
 
   Please enter file name to receive:
